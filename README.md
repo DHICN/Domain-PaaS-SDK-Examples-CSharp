@@ -1,4 +1,4 @@
-# 这是一个污水业务中台.net SDK包使用示例
+# 这是一个DHI中国 业务中台.net SDK包使用示例
 
 ## 试用申请
 如需试用，请联系我们 [DHI 中国 业务中台](https://online-products.dhichina.cn/) 获取使用许可和认证信息。
